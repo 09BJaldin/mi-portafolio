@@ -1,0 +1,10 @@
+#sidebar ul li a,
+#sidebar ul li {
+	font-family: "quantico";
+	font-size: 16px;
+	font-weight: 700;
+}
+.et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child {
+	font-family: "quantico"
+		!important;
+}
