@@ -1,2 +1,2 @@
 # mi-portafolio
-ESte es mi portafolio hecho en HTML Y CSS
+ESte es mi portafolio con todos mis proyectos 
